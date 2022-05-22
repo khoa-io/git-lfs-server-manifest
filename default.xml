@@ -5,7 +5,7 @@
   <default revision="main" remote="khoa-io" sync-j="4" />
 
   <project path="git-lfs-server" name="git-lfs-server" />
-  <project path="wiki" name="wiki" />
-  <project path="manifest" name="manifest" />
+  <project path="wiki" name="git-lfs-server.wiki" />
+  <project path="manifest" name="git-lfs-server-manifest" />
 
 </manifest>
