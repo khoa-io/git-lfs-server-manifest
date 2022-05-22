@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="khoa-io" fetch="git@github.com:khoa-io" />
+  <default revision="main" remote="khoa-io" sync-j="4" />
+
+  <project path="git-lfs-server" name="git-lfs-server" />
+  <project path="wiki" name="wiki" />
+  <project path="manifest" name="manifest" />
+
+</manifest>
